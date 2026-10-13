@@ -1,0 +1,6 @@
+# Simple analyzer settings (no extra package needed)
+analyzer:
+  errors:
+    deprecated_member_use: ignore
+linter:
+  rules:
